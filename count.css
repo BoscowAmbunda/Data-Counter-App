@@ -1,0 +1,46 @@
+body {
+    background-image: url("/images/pexels-julio-nery-1687154.jpg");
+    background-size: cover;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+  
+}
+.special {
+        background-color:red;
+        max-width: 40%;
+        
+        margin-top: 20%;
+        margin-left: 30%;
+        border: 3px solid black;
+    }
+
+    h1{
+        font-size: 200%;
+    }
+    h2 {
+        font-size: 220% ;
+
+    }
+
+    button{
+        width: 50%;
+        height: 50%;
+        font-weight: bolder;
+        border-radius: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        border: none;
+        color: white;
+        margin-bottom: 10px;
+    }
+
+ #increment-btn{
+            color:white;
+            background-color:darkred;
+        }
+
+#save-btn{
+    color: white;
+    background-color: darkgreen;
+
+}
